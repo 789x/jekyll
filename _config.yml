@@ -1,6 +1,6 @@
 ---
 title: Jekyll
-timezone: UTC
+timezone: Asia/Singapore
 collections:
   posts:
     title: Posts
