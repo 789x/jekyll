@@ -1,0 +1,10 @@
+---
+label: Hero Home
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  name: hero_section
+  hidden: true
+  label: hero section
+- type: file
