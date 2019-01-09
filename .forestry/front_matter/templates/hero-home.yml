@@ -8,3 +8,6 @@ fields:
   hidden: true
   label: hero section
 - type: file
+- type: text
+  name: text
+  label: Text
